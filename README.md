@@ -8,7 +8,7 @@ for cheat engine (7.6) lua-table script
 ## how to run
 
 1. open cheat engine 7.6
-2. launch the game (or emulator) with process named **HD-Player.exe** (bluestacks5)
+2. launch the game (emulator)
 3. open this script in cheat engine lua engine
 4. run the script
 5. input the **old skin id** (default 43401)
